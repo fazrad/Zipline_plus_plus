@@ -11,3 +11,5 @@ Now it supports Binance data bundle in minute or daily resolution.
 * Python version must be 3.6.6. Other versions might need some tweaking.
 * These processes have been tested on Zipline 1.4.1.
 * You need to change the specified packages in the tutorial before testing any strategies.
+
+[Zipline++ Tutorial](https://simplyfarzad.medium.com/zipline-binance-support-and-more-4c0430fbe50f).
